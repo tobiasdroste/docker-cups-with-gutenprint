@@ -1,0 +1,9 @@
+Dieses Projekt verwendet folgende Komponenten:
+
+- CUPS (Apache License 2.0): https://openprinting.github.io/cups/
+- CUPS Docker Base Image (GNU General Public License v3.0): https://github.com/olbat/dockerfiles/tree/master/cupsd
+- Gutenprint (GNU General Public License v2): https://github.com/ijackson/gutenprint
+
+Der Quellcode und die Konfigurationen in diesem Repository stehen unter der Apache License 2.0, sofern nicht anders angegeben.
+
+Siehe die jeweiligen Projekte für vollständige Lizenztexte und Bedingungen.
